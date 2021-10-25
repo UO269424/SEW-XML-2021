@@ -1,0 +1,301 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+
+<personas>
+    <persona nombre="Alonso" apellidos= "Gago Suárez" fecha_nacimiento= "01/08/2000" >
+        <lugar_nacimiento>Oviedo</lugar_nacimiento>
+        <coordenadas_nacimiento>
+            <latitud>43.352269</latitud>
+			<longitud>-5.862495</longitud>
+			<altitud>238</altitud>
+        </coordenadas_nacimiento>
+        <lugar_fallecimiento></lugar_fallecimiento>
+        <coordenadas_fallecimiento>
+            <latitud></latitud>
+			<longitud></longitud>
+			<altitud></altitud>
+        </coordenadas_fallecimiento>
+        <imagen></imagen>
+        <video></video>
+        <comentarios></comentarios>
+
+        <persona nombre="Vidal" apellidos="Gago Pérez" fecha_nacimiento="02/05/1964">
+            <lugar_nacimiento>Zamora</lugar_nacimiento>
+            <coordenadas_nacimiento>
+                <latitud>41.50633</latitud>
+                <longitud>-5.74628</longitud>
+                <altitud>656</altitud>
+            </coordenadas_nacimiento>
+            <lugar_fallecimiento></lugar_fallecimiento>
+            <coordenadas_fallecimiento>
+                <latitud></latitud>
+                <longitud></longitud>
+                <altitud></altitud>
+            </coordenadas_fallecimiento>
+            <imagen></imagen>
+            <video></video>
+            <comentarios></comentarios>
+
+            <persona nombre="Vidal" apellidos="Gago González" fecha_nacimiento="02/07/1937">
+                <lugar_nacimiento>Villárdiga</lugar_nacimiento>
+                <coordenadas_nacimiento>
+                    <latitud>41.818525</latitud>
+                    <longitud>-5.465068</longitud>
+                    <altitud>682</altitud>
+                </coordenadas_nacimiento>
+                <lugar_fallecimiento>Oviedo</lugar_fallecimiento>
+                <coordenadas_fallecimiento>
+                    <latitud>43.370100</latitud>
+			        <longitud>-5.834829</longitud>
+			        <altitud>238</altitud>
+                </coordenadas_fallecimiento>
+                <imagen></imagen>
+                <video></video>
+                <comentarios></comentarios>
+
+                <persona nombre="bisabuelo" apellidos="Vidal" fecha_nacimiento="02/07/1900">
+                    <lugar_nacimiento></lugar_nacimiento>
+                        <coordenadas_nacimiento>
+                            <latitud></latitud>
+                            <longitud></longitud>
+                            <altitud></altitud>
+                        </coordenadas_nacimiento>
+                        <lugar_fallecimiento></lugar_fallecimiento>
+                        <coordenadas_fallecimiento>
+                            <latitud></latitud>
+                            <longitud></longitud>
+                            <altitud></altitud>
+                        </coordenadas_fallecimiento>
+                        <imagen></imagen>
+                        <video></video>
+                        <comentarios></comentarios>
+
+                        <persona></persona>
+                        <persona></persona>
+                </persona>
+
+                <persona nombre="bisabuela" apellidos="Vidal" fecha_nacimiento="x/y/1901">
+                    <lugar_nacimiento></lugar_nacimiento>
+                        <coordenadas_nacimiento>
+                            <latitud></latitud>
+                            <longitud></longitud>
+                            <altitud></altitud>
+                        </coordenadas_nacimiento>
+                        <lugar_fallecimiento></lugar_fallecimiento>
+                        <coordenadas_fallecimiento>
+                            <latitud></latitud>
+                            <longitud></longitud>
+                            <altitud></altitud>
+                        </coordenadas_fallecimiento>
+                        <imagen></imagen>
+                        <video></video>
+                        <comentarios></comentarios>
+
+                        <persona></persona>
+                        <persona></persona>
+                </persona>
+            </persona>
+
+            <persona nombre="Julia" apellidos="Pérez Gago" fecha_nacimiento="24/04/1938">
+                <lugar_nacimiento>Valladolid</lugar_nacimiento>
+                <coordenadas_nacimiento>
+                    <latitud>41.660319</latitud>
+                    <longitud>-4.717915</longitud>
+                    <altitud>698</altitud>
+                </coordenadas_nacimiento>
+                <lugar_fallecimiento></lugar_fallecimiento>
+                <coordenadas_fallecimiento>
+                    <latitud></latitud>
+                    <longitud></longitud>
+                    <altitud></altitud>
+                </coordenadas_fallecimiento>
+                <imagen></imagen>
+                <video></video>
+                <comentarios></comentarios>
+
+                <persona nombre="bisabuelo" apellidos="Julita" fecha_nacimiento="02/07/1900">
+                    <lugar_nacimiento></lugar_nacimiento>
+                        <coordenadas_nacimiento>
+                            <latitud></latitud>
+                            <longitud></longitud>
+                            <altitud></altitud>
+                        </coordenadas_nacimiento>
+                        <lugar_fallecimiento></lugar_fallecimiento>
+                        <coordenadas_fallecimiento>
+                            <latitud></latitud>
+                            <longitud></longitud>
+                            <altitud></altitud>
+                        </coordenadas_fallecimiento>
+                        <imagen></imagen>
+                        <video></video>
+                        <comentarios></comentarios>
+
+                        <persona></persona>
+                        <persona></persona>                
+                </persona>
+
+                <persona nombre="bisabuela" apellidos="Julita" fecha_nacimiento="x/y/1901">
+                    <lugar_nacimiento></lugar_nacimiento>
+                        <coordenadas_nacimiento>
+                            <latitud></latitud>
+                            <longitud></longitud>
+                            <altitud></altitud>
+                        </coordenadas_nacimiento>
+                        <lugar_fallecimiento></lugar_fallecimiento>
+                        <coordenadas_fallecimiento>
+                            <latitud></latitud>
+                            <longitud></longitud>
+                            <altitud></altitud>
+                        </coordenadas_fallecimiento>
+                        <imagen></imagen>
+                        <video></video>
+                        <comentarios></comentarios>
+
+                        <persona></persona>
+                        <persona></persona>
+                </persona>
+            </persona>
+        
+        </persona>
+
+        <persona nombre="María Luisa" apellidos="Suárez Garnacho" fecha_nacimiento="08/08/1965">
+            <lugar_nacimiento>Oviedo</lugar_nacimiento>
+            <coordenadas_nacimiento>
+                <latitud>43.367786</latitud>
+                <longitud>-5.825181</longitud>
+                <altitud>238</altitud>
+            </coordenadas_nacimiento>
+            <lugar_fallecimiento></lugar_fallecimiento>
+            <coordenadas_fallecimiento>
+                <latitud></latitud>
+                <longitud></longitud>
+                <altitud></altitud>
+            </coordenadas_fallecimiento>
+            <imagen></imagen>
+            <video></video>
+            <comentarios></comentarios>
+
+            <persona nombre="Santos" apellidos="Suárez Menéndez" fecha_nacimiento="31/01/1929">
+                <lugar_nacimiento>Limanes</lugar_nacimiento>
+                <coordenadas_nacimiento>
+                    <latitud>43.370749</latitud>
+                    <longitud>-5.779886</longitud>
+                    <altitud>230</altitud>
+                </coordenadas_nacimiento>
+                <lugar_fallecimiento>Oviedo</lugar_fallecimiento>
+                <coordenadas_fallecimiento>
+                    <latitud>43.355950</latitud>
+			        <longitud>-5.866079</longitud>
+			        <altitud>238</altitud>
+                </coordenadas_fallecimiento>
+                <imagen></imagen>
+                <video></video>
+                <comentarios></comentarios>
+
+                <persona nombre="bisabuelo" apellidos="Santos" fecha_nacimiento="02/07/1900">
+                    <lugar_nacimiento></lugar_nacimiento>
+                    <coordenadas_nacimiento>
+                        <latitud></latitud>
+                        <longitud></longitud>
+                        <altitud></altitud>
+                    </coordenadas_nacimiento>
+                    <lugar_fallecimiento></lugar_fallecimiento>
+                    <coordenadas_fallecimiento>
+                        <latitud></latitud>
+                        <longitud></longitud>
+                        <altitud></altitud>
+                    </coordenadas_fallecimiento>
+                    <imagen></imagen>
+                    <video></video>
+                    <comentarios></comentarios>
+
+                    <persona></persona>
+                    <persona></persona>
+                </persona>
+
+                <persona nombre="bisabuela" apellidos="Santos" fecha_nacimiento="x/y/1901">
+                    <lugar_nacimiento></lugar_nacimiento>
+                    <coordenadas_nacimiento>
+                        <latitud></latitud>
+                        <longitud></longitud>
+                        <altitud></altitud>
+                    </coordenadas_nacimiento>
+                    <lugar_fallecimiento></lugar_fallecimiento>
+                    <coordenadas_fallecimiento>
+                        <latitud></latitud>
+                        <longitud></longitud>
+                        <altitud></altitud>
+                    </coordenadas_fallecimiento>
+                    <imagen></imagen>
+                    <video></video>
+                    <comentarios></comentarios>
+
+                    <persona></persona>
+                    <persona></persona>
+                </persona>
+            </persona>
+
+            <persona nombre="María Luisa" apellidos="Garnacho Cordero" fecha_nacimiento="08/07/1934">
+                <lugar_nacimiento>Valladolid</lugar_nacimiento>
+                <coordenadas_nacimiento>
+                    <latitud>41.645023</latitud>
+                    <longitud>-4.733928</longitud>
+                    <altitud>698</altitud>
+                </coordenadas_nacimiento>
+                <lugar_fallecimiento>Oviedo</lugar_fallecimiento>
+                <coordenadas_fallecimiento>
+                    <latitud>43.36029</latitud>
+                    <longitud>-5.84476</longitud>
+                    <altitud>238</altitud>
+                </coordenadas_fallecimiento>
+                <imagen></imagen>
+                <video></video>
+                <comentarios></comentarios>
+
+                <persona nombre="bisabuelo" apellidos="María Luisa" fecha_nacimiento="02/07/1900">
+                    <lugar_nacimiento></lugar_nacimiento>
+                    <coordenadas_nacimiento>
+                        <latitud></latitud>
+                        <longitud></longitud>
+                        <altitud></altitud>
+                    </coordenadas_nacimiento>
+                    <lugar_fallecimiento></lugar_fallecimiento>
+                    <coordenadas_fallecimiento>
+                        <latitud></latitud>
+                        <longitud></longitud>
+                        <altitud></altitud>
+                    </coordenadas_fallecimiento>
+                    <imagen></imagen>
+                    <video></video>
+                    <comentarios></comentarios>
+
+                    <persona></persona>
+                    <persona></persona>
+                </persona>
+
+                <persona nombre="bisabuela" apellidos="María Luisa" fecha_nacimiento="x/y/1901">
+                    <lugar_nacimiento></lugar_nacimiento>
+                    <coordenadas_nacimiento>
+                        <latitud></latitud>
+                        <longitud></longitud>
+                        <altitud></altitud>
+                    </coordenadas_nacimiento>
+                    <lugar_fallecimiento></lugar_fallecimiento>
+                    <coordenadas_fallecimiento>
+                        <latitud></latitud>
+                        <longitud></longitud>
+                        <altitud></altitud>
+                    </coordenadas_fallecimiento>
+                    <imagen></imagen>
+                    <video></video>
+                    <comentarios></comentarios>
+
+                    <persona></persona>
+                    <persona></persona>
+                </persona>
+            </persona>
+
+
+        </persona>
+
+    </persona>
+</personas>
