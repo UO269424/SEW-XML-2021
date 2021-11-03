@@ -1,0 +1,50 @@
+/*especificidad -> 11*/
+body {
+    font: 400 1em Tahoma, sans-serif;
+    line-height: 1.8;
+    color: black;
+    background-color: white;
+}
+
+/*especificidad -> 1*/
+h1{
+    text-align: center;
+    background-color: white;
+    color: black;
+    text-transform: uppercase;
+    margin-bottom: 1.5em;
+}
+
+/*especificidad -> 1*/
+h2{
+    text-align: left;
+    background-color: white;
+    color: black;
+    text-transform: capitalize;
+    margin-left: 1.3em;
+}
+
+
+/*especificidad -> 1*/
+p{
+    text-align: justify;
+    margin-left: 1.9em;
+    margin-right: 1.8em;
+}
+
+/*especificidad -> 1*/
+ul{
+    text-align: left;
+    margin-top: 1.25em;
+    margin-bottom: 2.5em;
+    margin-left: 3em;
+    margin-right: 2.5em;
+}
+
+  /*especificidad -> 100*/
+img{
+    width: 20em;
+    height: 30em;
+    object-fit: cover;
+    padding: 1.25em;
+  }

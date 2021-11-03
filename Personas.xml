@@ -1,0 +1,287 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+
+<personas 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PersonasMod.xsd">
+    <persona nombre="Alonso" apellidos= "Gago Suárez" fecha_nacimiento= "2000-08-01" >
+        <lugar_nacimiento>Oviedo</lugar_nacimiento>
+        <coordenadas_nacimiento>
+            <latitud_n>43.352269</latitud_n>
+			<longitud_n>-5.862495</longitud_n>
+			<altitud_n>238</altitud_n>
+        </coordenadas_nacimiento>
+        
+        <imagen url="multimedia/Alonso.jpg">Alonso Gago</imagen>
+        <video></video>
+        <comentarios></comentarios>
+
+        <persona nombre="Vidal" apellidos="Gago Pérez" fecha_nacimiento="1964-05-02">
+            <lugar_nacimiento>Zamora</lugar_nacimiento>
+            <coordenadas_nacimiento>
+                <latitud_n>41.50633</latitud_n>
+                <longitud_n>-5.74628</longitud_n>
+                <altitud_n>656</altitud_n>
+            </coordenadas_nacimiento>
+            <imagen url="multimedia/padre_Vidal.jpg">Vidal Gago</imagen>
+            <video></video>
+            <comentarios></comentarios>
+
+            <persona nombre="Vidal" apellidos="Gago González" fecha_nacimiento="1937-07-02">
+                <lugar_nacimiento>Villárdiga</lugar_nacimiento>
+                <coordenadas_nacimiento>
+                    <latitud_n>41.818525</latitud_n>
+                    <longitud_n>-5.465068</longitud_n>
+                    <altitud_n>682</altitud_n>
+                </coordenadas_nacimiento>
+                <fecha_fallecimiento>2020-03-27</fecha_fallecimiento>
+                <lugar_fallecimiento>Oviedo</lugar_fallecimiento>
+                <coordenadas_fallecimiento>
+                    <latitud_f>43.370100</latitud_f>
+			        <longitud_f>-5.834829</longitud_f>
+			        <altitud_f>238</altitud_f>
+                </coordenadas_fallecimiento>
+                <imagen url="multimedia/abuelo_Vidal.jpg">Vidal Gago</imagen>
+                <video></video>
+                <comentarios></comentarios>
+
+                <persona nombre="Emilio" apellidos="Gago Barrio" fecha_nacimiento="1909-09-09">
+                    <lugar_nacimiento>Villardiga</lugar_nacimiento>
+                        <coordenadas_nacimiento>
+                            <latitud_n>41.818525</latitud_n>
+                            <longitud_n>-5.465068</longitud_n>
+                            <altitud_n>682</altitud_n>
+                        </coordenadas_nacimiento>
+                        <fecha_fallecimiento>1988-06-24</fecha_fallecimiento>
+                        <lugar_fallecimiento>Madrid</lugar_fallecimiento>
+                        <coordenadas_fallecimiento>
+                            <latitud_f>40.452349</latitud_f>
+                            <longitud_f>-3.782771</longitud_f>
+                            <altitud_f>820</altitud_f>
+                        </coordenadas_fallecimiento>
+                        <imagen url="multimedia/bisabuelos_Emilio_Daria.png">Emilio Gago</imagen>
+                        <video></video>
+                        <comentarios></comentarios>
+
+                        
+                        
+                </persona>
+
+                <persona nombre="Daría" apellidos="González González" fecha_nacimiento="1913-10-25">
+                    <lugar_nacimiento>Cañizo</lugar_nacimiento>
+                        <coordenadas_nacimiento>
+                            <latitud_n>41.769600</latitud_n>
+                            <longitud_n>-5.504939</longitud_n>
+                            <altitud_n>676</altitud_n>
+                        </coordenadas_nacimiento>
+                        <fecha_fallecimiento>1997-09-18</fecha_fallecimiento>
+                        <lugar_fallecimiento>Villalpando</lugar_fallecimiento>
+                        <coordenadas_fallecimiento>
+                            <latitud_f>41.865082</latitud_f>
+                            <longitud_f>-5.415103</longitud_f>
+                            <altitud_f>690</altitud_f>
+                        </coordenadas_fallecimiento>
+                        <imagen url="multimedia/bisabuelos_Emilio_Daria.png">Daría González</imagen>
+                        <video></video>
+                        <comentarios></comentarios>
+
+                        
+                        
+                </persona>
+            </persona>
+
+            <persona nombre="Julia" apellidos="Pérez Gago" fecha_nacimiento="1938-04-24">
+                <lugar_nacimiento>Valladolid</lugar_nacimiento>
+                <coordenadas_nacimiento>
+                    <latitud_n>41.660319</latitud_n>
+                    <longitud_n>-4.717915</longitud_n>
+                    <altitud_n>698</altitud_n>
+                </coordenadas_nacimiento>
+                <imagen url="multimedia/abuela_Julita.png">Julia Pérez</imagen>
+                <video></video>
+                <comentarios></comentarios>
+
+                <persona nombre="Lucencio" apellidos="Pérez Bragado" fecha_nacimiento="1901-05-27">
+                    <lugar_nacimiento>Belver de los Montes</lugar_nacimiento>
+                        <coordenadas_nacimiento>
+                            <latitud_n>41.723301</latitud_n>
+                            <longitud_n>-5.451055</longitud_n>
+                            <altitud_n>688</altitud_n>
+                        </coordenadas_nacimiento>
+                        <fecha_fallecimiento>1990-12-08</fecha_fallecimiento>
+                        <lugar_fallecimiento>San Martín de Valderaduey</lugar_fallecimiento>
+                        <coordenadas_fallecimiento>
+                            <latitud_f>41.815340</latitud_f>
+                            <longitud_f>-5.472016</longitud_f>
+                            <altitud_f>679</altitud_f>
+                        </coordenadas_fallecimiento>
+                        <imagen url="multimedia/bisabuelos_Lucencio_Julia.png">Lucencio Pérez</imagen>
+                        <video></video>
+                        <comentarios></comentarios>
+
+                        
+                                        
+                </persona>
+
+                <persona nombre="Julia" apellidos="Gago Miranda" fecha_nacimiento="1898-10-06">
+                    <lugar_nacimiento>San Martín de Valderaduey</lugar_nacimiento>
+                        <coordenadas_nacimiento>
+                            <latitud_n>41.815340</latitud_n>
+                            <longitud_n>-5.451055</longitud_n>
+                            <altitud_n>688</altitud_n>
+                        </coordenadas_nacimiento>
+                        <fecha_fallecimiento>1984-07-24</fecha_fallecimiento>
+                        <lugar_fallecimiento>San Martín de Valderaduey</lugar_fallecimiento>
+                        <coordenadas_fallecimiento>
+                            <latitud_f>41.815340</latitud_f>
+                            <longitud_f>-5.472016</longitud_f>
+                            <altitud_f>679</altitud_f>
+                        </coordenadas_fallecimiento>
+                        <imagen url="multimedia/bisabuelos_Lucencio_Julia.png">Julia Gago</imagen>
+                        <video></video>
+                        <comentarios></comentarios>
+
+                        
+                        
+                </persona>
+            </persona>
+        
+        </persona>
+
+        <persona nombre="María Luisa" apellidos="Suárez Garnacho" fecha_nacimiento="1965-08-08">
+            <lugar_nacimiento>Oviedo</lugar_nacimiento>
+            <coordenadas_nacimiento>
+                <latitud_n>43.367786</latitud_n>
+                <longitud_n>-5.825181</longitud_n>
+                <altitud_n>238</altitud_n>
+            </coordenadas_nacimiento>
+            <imagen url="multimedia/madre_Marisa.jpg">Marisa Suárez</imagen>
+            <video></video>
+            <comentarios></comentarios>
+
+            <persona nombre="Santos" apellidos="Suárez Menéndez" fecha_nacimiento="1929-01-31">
+                <lugar_nacimiento>Limanes</lugar_nacimiento>
+                <coordenadas_nacimiento>
+                    <latitud_n>43.370749</latitud_n>
+                    <longitud_n>-5.779886</longitud_n>
+                    <altitud_n>230</altitud_n>
+                </coordenadas_nacimiento>
+                <fecha_fallecimiento>2011-06-16</fecha_fallecimiento>
+                <lugar_fallecimiento>Oviedo</lugar_fallecimiento>
+                <coordenadas_fallecimiento>
+                    <latitud_f>43.355950</latitud_f>
+			        <longitud_f>-5.866079</longitud_f>
+			        <altitud_f>238</altitud_f>
+                </coordenadas_fallecimiento>
+                <imagen url="multimedia/abuelo_Santos.png">Santos Suárez</imagen>
+                <video></video>
+                <comentarios></comentarios>
+
+                <persona nombre="Florentino" apellidos="Suárez " fecha_nacimiento="1900-07-02">
+                    <lugar_nacimiento>Limanes</lugar_nacimiento>
+                    <coordenadas_nacimiento>
+                    <latitud_n>43.370749</latitud_n>
+                    <longitud_n>-5.779886</longitud_n>
+                    <altitud_n>230</altitud_n>
+                    </coordenadas_nacimiento>
+                    <fecha_fallecimiento>1983-03-27</fecha_fallecimiento>
+                    <lugar_fallecimiento>Colloto</lugar_fallecimiento>
+                    <coordenadas_fallecimiento>
+                        <latitud_f>43.3826600</latitud_f>
+                        <longitud_f>-5.7995600</longitud_f>
+                        <altitud_f>175</altitud_f>
+                    </coordenadas_fallecimiento>
+                    <imagen url="multimedia/bisabuelo_Florentino.png">Florentino Suárez</imagen>
+                    <video></video>
+                    <comentarios></comentarios>
+
+                    
+                    
+                </persona>
+
+                <persona nombre="Luz" apellidos="Menéndez" fecha_nacimiento="1897-04-17">
+                    <lugar_nacimiento>Limanes</lugar_nacimiento>
+                    <coordenadas_nacimiento>
+                    <latitud_n>43.370749</latitud_n>
+                    <longitud_n>-5.779886</longitud_n>
+                    <altitud_n>230</altitud_n>
+                    </coordenadas_nacimiento>
+                    <fecha_fallecimiento>1996-08-22</fecha_fallecimiento>
+                    <lugar_fallecimiento>Oviedo</lugar_fallecimiento>
+                    <coordenadas_fallecimiento>
+                        <latitud_f>43.356887</latitud_f>
+                        <longitud_f>-5.869369</longitud_f>
+                        <altitud_f>238</altitud_f>
+                    </coordenadas_fallecimiento>
+                    <imagen url="multimedia/bisabuela_Luz.png">Luz Menéndez</imagen>
+                    <video></video>
+                    <comentarios></comentarios>
+
+                    
+                    
+                </persona>
+            </persona>
+
+            <persona nombre="María Luisa" apellidos="Garnacho Cordero" fecha_nacimiento="1934-07-08">
+                <lugar_nacimiento>Valladolid</lugar_nacimiento>
+                <coordenadas_nacimiento>
+                    <latitud_n>41.645023</latitud_n>
+                    <longitud_n>-4.733928</longitud_n>
+                    <altitud_n>698</altitud_n>
+                </coordenadas_nacimiento>
+                 <fecha_fallecimiento>2021-06-01</fecha_fallecimiento>
+                <lugar_fallecimiento>Oviedo</lugar_fallecimiento>
+                <coordenadas_fallecimiento>
+                    <latitud_f>43.36029</latitud_f>
+                    <longitud_f>-5.84476</longitud_f>
+                    <altitud_f>238</altitud_f>
+                </coordenadas_fallecimiento>
+                <imagen url="multimedia/abuela_Marisa.png">Marisa Garnacho</imagen>
+                <video></video>
+                <comentarios></comentarios>
+
+                <persona nombre="Julián" apellidos="Garnacho Luengo" fecha_nacimiento="1907-07-02">
+                    <lugar_nacimiento>Serrada</lugar_nacimiento>
+                    <coordenadas_nacimiento>
+                        <latitud_n>41.458013</latitud_n>
+                        <longitud_n>-4.862192</longitud_n>
+                        <altitud_n>722</altitud_n>
+                    </coordenadas_nacimiento>
+                    <fecha_fallecimiento>1999-03-05</fecha_fallecimiento>
+                    <lugar_fallecimiento>Oviedo</lugar_fallecimiento>
+                    <coordenadas_fallecimiento>
+                        <latitud_f>43.357759</latitud_f>
+                        <longitud_f>-5.847778</longitud_f>
+                        <altitud_f>238</altitud_f>
+                    </coordenadas_fallecimiento>
+                    <imagen url="multimedia/bisabuelo_Julian.png">Julián Garnacho</imagen>
+                    <video></video>
+                    <comentarios></comentarios>
+
+                    
+                    
+                </persona>
+
+                <persona nombre="Águeda Luisa" apellidos="Cordero Tejero" fecha_nacimiento="1904-10-03">
+                    <lugar_nacimiento>Valladolid</lugar_nacimiento>
+                    <coordenadas_nacimiento>
+                    <latitud_n>41.645023</latitud_n>
+                    <longitud_n>-4.733928</longitud_n>
+                    <altitud_n>698</altitud_n>
+                    </coordenadas_nacimiento>
+                    <fecha_fallecimiento>1994-06-17</fecha_fallecimiento>
+                    <lugar_fallecimiento>Oviedo</lugar_fallecimiento>
+                    <coordenadas_fallecimiento>
+                        <latitud_f>43.357759</latitud_f>
+                        <longitud_f>-5.847778</longitud_f>
+                        <altitud_f>238</altitud_f>
+                    </coordenadas_fallecimiento>
+                    <imagen url="multimedia/bisabuela_Agueda.png">Águeda Cordero</imagen>
+                    <video></video>
+                    <comentarios></comentarios>
+
+                    
+                    
+                </persona>
+            </persona>
+        </persona>
+    </persona>
+</personas>
